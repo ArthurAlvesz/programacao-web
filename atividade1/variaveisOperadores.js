@@ -9,7 +9,7 @@
  mult = a * b
  div = a / b
 
- console.log('Resultado da soma entre'+ a +' e '+ b + 'é' + soma)
- console.log('Resultado da subtração entre '+ a +' e '+ b + 'é' + sub)
- console.log('Resultado da multiplicação entre '+ a +' e '+ b + 'é' + mult)
- console.log('Resultado da divisão entre '+ a +' e '+ b + 'é' + div)
+ console.log('Resultado da soma entre '+ a +' e '+ b + ' é ' + soma)
+ console.log('Resultado da subtração entre '+ a +' e '+ b + ' é ' + sub)
+ console.log('Resultado da multiplicação entre '+ a +' e '+ b + ' é ' + mult)
+ console.log('Resultado da divisão entre '+ a +' e '+ b + ' é ' + div)
